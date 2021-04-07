@@ -1,3 +1,4 @@
+{% raw %} 
 ---
 layout: page
 title: projects
@@ -45,3 +46,4 @@ nav: true
 {% endfor %}
 
 </div>
+{% endraw %}
