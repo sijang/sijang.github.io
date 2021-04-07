@@ -17,11 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a research fellow in the Department of Statistics and Applied Probability (DSAP), National University of Singapore.
+I'm currently a research fellow in the Department of Statistics and Applied Probability (DSAP), National University of Singapore.
+
 My main research topics are as follows:
 Machine Learning, Artificial Intelligence, Explainable Machine Learning, Self-supervised Learning, Online Classification using real-world data (e.g., image, audio, text and etc).
 
-<a href="https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en">Google Scholar</a>
+<a href="https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
 
 
