@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">The Department of Statistics and Applied Probability (DSAP), National University of Singapore </a>.
 
 profile:
   align: right
