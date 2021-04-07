@@ -13,6 +13,7 @@ If you like the theme, give it a star!
 [![Preview](assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
 
+
 ## User community
 
 The vibrant community of **al-folio** users is growing!
