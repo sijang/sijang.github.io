@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">The Department of Statistics and Applied Probability (DSAP), </a> National University of Singapore.
+description:  
 
 profile:
   align: right
