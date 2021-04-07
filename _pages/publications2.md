@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications2/
-title: pulibcation
+title: Pulibcations
 description: Publications.
 nav: true
 ---
