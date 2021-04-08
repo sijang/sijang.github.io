@@ -12,7 +12,7 @@ nav: true
   > Prof. Choong-Shik Park, U1 University, [Website](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}.
 
 ## Explainable
-  > Prof. Hima Lakkaraju, Harvard University, [Website](https://himalakkaraju.github.io){:target="_blank"}.
+  > Prof. Himabindu Lakkaraju, Harvard University, [Website](https://himalakkaraju.github.io){:target="_blank"}.
 
 
 ## Interpretable
