@@ -16,7 +16,9 @@ nav: true
 ## Interpretable
 
 # Neural-symbolic Learning
-Advances in Neuro-Symbolic AI — IBM Seminar Series, IBM, [Website](https://researcher.watson.ibm.com/researcher/view_group.php?id=10510){:target="_blank"}.
+> Neuro-Symbolic AI, IBM, [Website](https://researcher.watson.ibm.com/researcher/view_group.php?id=10518){:target="_blank"}.
+
+> Advances in Neuro-Symbolic AI — IBM Seminar Series, IBM, [Website](https://researcher.watson.ibm.com/researcher/view_group.php?id=10510){:target="_blank"}.
 
 # Online Classificaiton
 
