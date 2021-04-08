@@ -11,11 +11,10 @@ nav: true
 
   > Prof. Choong-Shik Park, U1 University, [Website](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}.
 
-## Explainable
+## Explainable or Interpretable
   > Prof. Himabindu Lakkaraju, Harvard University, [Website](https://himalakkaraju.github.io){:target="_blank"}.
 
 
-## Interpretable
 
 # Neural-symbolic Learning
   > Neuro-Symbolic AI, IBM, [Website](https://researcher.watson.ibm.com/researcher/view_group.php?id=10518){:target="_blank"}.
