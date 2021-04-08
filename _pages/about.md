@@ -8,8 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>sijang _AT_ yonsei.ac.kr</p>
     <p>sijang _AT_ nus.edu.sg</p>
+    <p>sijang _AT_ yonsei.ac.kr</p>
+    
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={false}"
