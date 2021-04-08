@@ -21,7 +21,7 @@ nav: true
 
 
 ## Conferences
-- Han-Cheol Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "An In-Air Signature Verification System Using Wi-Fi Signals", International Conference on Biometric Engineering and Forensics (ICBEF), 2017.
+- Han-Cheol Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "[An In-Air Signature Verification System Using Wi-Fi Signals](https://doi.org/10.1145/3168776.3168799){:target="_blank"}", International Conference on Biometric Engineering and Forensics (ICBEF), 2017.
 - **Se-In Jang**, Geok-Choo Tan and Kar-Ann Toh, "[Recursive Total Error Rate Minimization](https://doi.org/10.1109/TENCON.2016.7847954){:target="_blank"}", IEEE Region 10 Conference (TENCON), 2016.
 - **Se-In Jang**, Kangrok Oh, Andrew Beng Jin Teoh and Kar-Ann Toh, "[Object Tracking Based on Kernel Recursive Least-Squares with Total Error Rate Minimization](https://doi.org/10.1109/ICIEA.2013.6566588){:target="_blank"}", The IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013.
 - **Se-In Jang**, Kwontaeg Choi, Youngsung Kim, Beom-Seok Oh and Kar-Ann Toh, "[Visual Tracking with Online Discriminative Learning](https://doi.org/10.1109/ICICS.2011.6173536){:target="_blank"}", The International Conference on Information, Communications and Signal Processing (ICICS), 2011.
