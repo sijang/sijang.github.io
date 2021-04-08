@@ -11,7 +11,7 @@ nav: true
 
   > Prof. Choong-Shik Park, U1 University, [Website](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}.
 
-### Explainable or Interpretable
+#### Explainable or Interpretable
   > Prof. Himabindu Lakkaraju, Harvard University, [Website](https://himalakkaraju.github.io){:target="_blank"}.
 
 
