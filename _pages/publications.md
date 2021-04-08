@@ -22,9 +22,9 @@ nav: true
 
 ## Conferences
 - Han-Cheol Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "An In-Air Signature Verification System Using Wi-Fi Signals", International Conference on Biometric Engineering and Forensics (ICBEF), 2017.
-- **Se-In Jang**, Geok-Choo Tan and Kar-Ann Toh, "Recursive Total Error Rate Minimization", IEEE Region 10 Conference (TENCON), 2016.
-- **Se-In Jang**, Kangrok Oh, Andrew Beng Jin Teoh and Kar-Ann Toh, "Object Tracking Based on Kernel Recursive Least-Squares with Total Error Rate Minimization", The IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013.
-- **Se-In Jang**, Kwontaeg Choi, Youngsung Kim, Beom-Seok Oh and Kar-Ann Toh, "Visual Tracking with Online Discriminative Learning", The International Conference on Information, Communications and Signal Processing (ICICS), 2011.
+- **Se-In Jang**, Geok-Choo Tan and Kar-Ann Toh, "[Recursive Total Error Rate Minimization](https://doi.org/10.1109/TENCON.2016.7847954){:target="_blank"}", IEEE Region 10 Conference (TENCON), 2016.
+- **Se-In Jang**, Kangrok Oh, Andrew Beng Jin Teoh and Kar-Ann Toh, "[Object Tracking Based on Kernel Recursive Least-Squares with Total Error Rate Minimization](https://doi.org/10.1109/ICIEA.2013.6566588){:target="_blank"}", The IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013.
+- **Se-In Jang**, Kwontaeg Choi, Youngsung Kim, Beom-Seok Oh and Kar-Ann Toh, "[Visual Tracking with Online Discriminative Learning](https://doi.org/10.1109/ICICS.2011.6173536){:target="_blank"}", The International Conference on Information, Communications and Signal Processing (ICICS), 2011.
 
 ## Journals
 - **Se-In Jang**, Geok-Choo Tan, Kar-Ann Toh and Andrew Beng Jin Teoh, "[Online Heterogeneous Face Recognition Based on Total-Error-Rate Minimization](https://doi.org/10.1109/TSMC.2017.2724761){:target="_blank"}", IEEE Trans. on Systems, Man, and Cybernetics: Systems (IF = 9.309), vol. 50, no. 4, pp. 126-139, Apr 2020. 
