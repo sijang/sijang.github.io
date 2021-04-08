@@ -56,15 +56,15 @@ wikidata_id: # your wikidata id
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-DJRXBN4JTS # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Research  # your blog must have a name for it to show up in the nav bar
+blog_description: Research List
 permalink: /blog/:year/:title/
 
 # Pagination
