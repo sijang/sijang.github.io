@@ -19,10 +19,14 @@ social: false  # includes social icons at the bottom of the page
 
 I'm currently a research fellow in the Department of Statistics and Applied Probability (DSAP), National University of Singapore.
 
-My main research topics are as follows:
-Machine Learning, Artificial Intelligence, Explainable Machine Learning, Self-supervised Learning, Online Classification using real-world data (e.g., image, audio, text and etc).
+My main research topics using real-world data (e.g., image, audio, text and etc) are as follows:
+- Artificial General Intelligence
+- Explainable Machine Learning
+- Neural-symbolic Learning
+- Self-supervised Learning
+- Online Classification
 
-<a href="https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+[Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
 
 
 
