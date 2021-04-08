@@ -18,6 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I'm currently a research fellow in the Department of Statistics and Applied Probability (DSAP), National University of Singapore.
+I received the Ph.D. degree and the M.S. degree from Yonsei university, South Korea, in 2019 and 2012. I also received the B.S. degree from Youngdong (now U1) university in 2010.
 
 My main research topics using real-world data (e.g., image, audio, text and etc) are as follows:
 - Artificial General Intelligence
