@@ -16,7 +16,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
-<div style="text-align: right"> 
+<div style="text-align: justify"> 
 
 
 I'm currently a research fellow in the Department of Statistics and Applied Probability, National University of Singapore.
