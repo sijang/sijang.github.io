@@ -26,6 +26,7 @@ My main research topics using real-world data (e.g., image, audio, text and etc)
 - Online Classification
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
+[Publication List](https://sijang.github.io/publications/)
 
 
 
