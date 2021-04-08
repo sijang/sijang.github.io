@@ -16,7 +16,7 @@ nav: true
 
 - Zainab Alhakeem and **Se-In Jang***, [An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}, arXiv Preprint, submitted to ICIP 2021.
 
-- **Se-In Jang***, [Online Passive-Aggressive Total-Error-Rate Minimization](https://arxiv.org/abs/2002.01771){:target="_blank"}, arXiv Preprint, 2020. ![assets/icons/arxiv.svg](#)
+- **Se-In Jang***, [Online Passive-Aggressive Total-Error-Rate Minimization](https://arxiv.org/abs/2002.01771){:target="_blank"}, arXiv Preprint, 2020.
 
 
 
