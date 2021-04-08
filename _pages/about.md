@@ -16,11 +16,12 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
+
 <div style="text-align: justify"> 
-
-
 I'm currently a research fellow in the Department of Statistics and Applied Probability, National University of Singapore.
 I received the Ph.D. degree and the M.S. degree from Yonsei university, South Korea, in 2019 and 2012. I also received the B.S. degree from Youngdong (now U1) university, South Korea, in 2010.
+</div>
+
 
 Using real-world data (e.g., image, audio, text and etc), **my main research topics** are as follows:
 - Artificial General Intelligence
@@ -33,7 +34,6 @@ Using real-world data (e.g., image, audio, text and etc), **my main research top
 [Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
 
 
-</div>
 
 
 
