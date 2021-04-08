@@ -16,8 +16,7 @@ nav: true
 ## Interpretable
 
 # Neural-symbolic Learning
-
-# Self-supervised Learning
+Advances in Neuro-Symbolic AI — IBM Seminar Series, IBM, [Website](https://researcher.watson.ibm.com/researcher/view_group.php?id=10510){:target="_blank"}.
 
 # Online Classificaiton
 
