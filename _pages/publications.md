@@ -48,11 +48,11 @@ nav: true
 
 
 ## Talks
-- Self-supervised Learning and Neural-symbolic Learning for Retinal Image Analysis, University of California, San Francisco (UCSF), Mar 2021.
+- Self-supervised Learning and Neural-symbolic Learning for Retinal Image Analysis, University of California, San Francisco (UCSF), CA, United States, Mar 2021.
 {: style="text-align: justify"}
 
-- Online Learning for Classification, National University of Singapore (NUS), Sep 2019.
+- Online Learning for Classification, National University of Singapore (NUS), Singapore, Sep 2019.
 {: style="text-align: justify"}
 
-- Online Learning Based on Total-error-rate Minimization, KEPCO KDN, Korea, Apr 2017.
+- Online Learning Based on Total-error-rate Minimization, KEPCO KDN, South Korea, Apr 2017.
 {: style="text-align: justify"}
