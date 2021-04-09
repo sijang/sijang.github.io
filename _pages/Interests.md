@@ -19,6 +19,6 @@ nav: true
 ## Explainable or Interpretable Machine Learning
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, Harvard University.
 
-## Online Classification
+## Online Machine Learning
   > [Dr. Mohammad Emtiyaz Khan](https://emtiyaz.github.io/){:target="_blank"}, Approximate Bayesian Inference, RIKEN.
 
