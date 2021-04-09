@@ -28,7 +28,7 @@ Using real-world data (e.g., image, audio, text and etc), **my main research top
 - Explainable Machine Learning
 - Neural-symbolic Learning
 - Self-supervised Learning
-- Online Classification
+- Online Machine Learning
 
 
 
