@@ -20,5 +20,5 @@ nav: true
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, Harvard University.
 
 ## Online Classification
-  > [Prof. Emtiyaz Khan](https://emtiyaz.github.io/){:target="_blank"}, RIKEN.
+  > [Dr. Mohammad Emtiyaz Khan](https://emtiyaz.github.io/){:target="_blank"}, RIKEN.
 
