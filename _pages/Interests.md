@@ -14,6 +14,8 @@ nav: true
 
 
 ## Neural-symbolic Learning
+  > [Neural-Symbolic Learning and Reasoning(NeSy)](http://www.neural-symbolic.org/){:target="_blank"}, NeSy association.
+  
   > [Neuro-Symbolic AI](https://researcher.watson.ibm.com/researcher/view_group.php?id=10518){:target="_blank"}, IBM.
 
   > [Advances in Neuro-Symbolic AI — IBM Seminar Series](https://researcher.watson.ibm.com/researcher/view_group.php?id=10510){:target="_blank"}, IBM.
