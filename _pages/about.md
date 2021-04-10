@@ -29,6 +29,7 @@ Using real-world data (e.g., image, audio, text and etc), **my main research top
 - Neural-symbolic Learning
 - Self-supervised Learning
 - Online Machine Learning
+- Optimization
 
 
 
