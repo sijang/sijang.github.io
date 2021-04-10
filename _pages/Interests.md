@@ -27,6 +27,9 @@ nav: true
   
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, Harvard University.
 
+  > [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}.
+
+
 
 
 ## Online Machine Learning
