@@ -17,7 +17,7 @@ nav: true
   > [Advances in Neuro-Symbolic AI — IBM Seminar Series](https://researcher.watson.ibm.com/researcher/view_group.php?id=10510){:target="_blank"}, IBM.
 
 ## Explainable or Interpretable Machine Learning
-  > [Prof. Finale Doshi-Velez](https://finale.seas.harvard.edu/){:target="_blank"}, Harvard University.
+  > [Prof. Finale Doshi-Velez](https://dtak.github.io){:target="_blank"}, Harvard University.
   
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, Harvard University.
 
