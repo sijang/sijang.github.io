@@ -25,12 +25,9 @@ nav: true
 ## Explainable or Interpretable Machine Learning
   > [Prof. Finale Doshi-Velez](https://dtak.github.io){:target="_blank"}, Harvard University.
   
-  > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, Harvard University.
+  > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}, Harvard University.
 
-  > > > [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}, [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/){:target="_blank"}
-
-
-
+  
 
 ## Online Machine Learning
   > [Prof. Shai Shalev-Shwartz](https://www.cs.huji.ac.il/~shais/){:target="_blank"}, The Hebrew University.
@@ -41,3 +38,5 @@ nav: true
   > [Prof. Nicolò Cesa-Bianchi](http://cesa-bianchi.di.unimi.it/){:target="_blank"}, University of Milan (Università degli Studi di Milano).
 
 
+## Lectures
+  > [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/){:target="_blank"}
