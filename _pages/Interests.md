@@ -40,4 +40,5 @@ nav: true
 
 ## Lectures
   > [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/){:target="_blank"} by Hima Lakkaraju
+  > 
   > [Explainable ML: Understanding the Limits and Pushing the Boundaries](https://www.chilconference.org/tutorial_T04.html) by Hima Lakkaraju
