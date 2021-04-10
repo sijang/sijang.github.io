@@ -27,7 +27,7 @@ nav: true
   
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, Harvard University.
 
-  > [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}.
+  >> [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}, [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/){:target="_blank"}
 
 
 
