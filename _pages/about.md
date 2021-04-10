@@ -22,7 +22,7 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 {: style="text-align: justify"}
 
 
-Using real-world data (e.g., image, audio, text and etc), **my main research topics** are as follows: 
+**My main research topics** are as follows: 
 {: style="text-align: justify"}
 - Artificial General Intelligence
 - Neural-symbolic Learning
