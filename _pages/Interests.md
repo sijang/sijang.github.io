@@ -28,5 +28,7 @@ nav: true
 
 
 ## Online Machine Learning
+  > [Prof. Shai Shalev-Shwartz](https://www.cs.huji.ac.il/~shais/){:target="_blank"}, The Hebrew University.
+
   > [Dr. Mohammad Emtiyaz Khan](https://emtiyaz.github.io/){:target="_blank"}, Approximate Bayesian Inference, RIKEN.
 
