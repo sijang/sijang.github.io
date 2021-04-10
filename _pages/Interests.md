@@ -33,5 +33,6 @@ nav: true
   > [Dr. Mohammad Emtiyaz Khan](https://emtiyaz.github.io/){:target="_blank"}, Approximate Bayesian Inference, RIKEN.
 
 ## Optimization
+  > [Prof. Nicolò Cesa-Bianchi](http://cesa-bianchi.di.unimi.it/){:target="_blank"}, University of Milan (Università degli Studi di Milano).
 
 
