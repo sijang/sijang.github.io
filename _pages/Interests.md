@@ -41,6 +41,6 @@ nav: true
 ## Lectures
   > [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/){:target="_blank"} by Hima Lakkaraju
 
-  > [Explainable ML: Understanding the Limits and Pushing the Boundaries](https://www.chilconference.org/tutorial_T04.html)){:target="_blank"} by Hima Lakkaraju
+  > [Explainable ML: Understanding the Limits and Pushing the Boundaries](https://www.chilconference.org/tutorial_T04.html){:target="_blank"} by Hima Lakkaraju
 
-  > [Bayesian principles for Learning-Machines](https://www.youtube.com/watch?v=XvTFW0MqtZE&t=1s){:target="_blank"}, [Slides](https://emtiyaz.github.io/papers/March10_2021_Open_Seminar.pdf){:target="_blank"} by Mohammad Emtiyaz Khan
+  > [Bayesian principles for Learning-Machines](https://www.youtube.com/watch?v=XvTFW0MqtZE&t=1s){:target="_blank"}, [[Slides](https://emtiyaz.github.io/papers/March10_2021_Open_Seminar.pdf){:target="_blank"}] by Mohammad Emtiyaz Khan
