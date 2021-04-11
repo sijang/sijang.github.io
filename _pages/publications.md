@@ -29,9 +29,6 @@ nav: true
 
 
 ## Conferences
-[//]: Han-Cheol Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "[An In-Air Signature Verification System Using Wi-Fi Signals](https://doi.org/10.1145/3168776.3168799){:target="_blank"}", International Conference on Biometric Engineering and Forensics (ICBEF), 2017.
-{: style="text-align: justify"}
-
 - **Se-In Jang**, Geok-Choo Tan and Kar-Ann Toh, "[Recursive Total Error Rate Minimization](https://doi.org/10.1109/TENCON.2016.7847954){:target="_blank"}", IEEE Region 10 Conference (TENCON), 2016.
 {: style="text-align: justify"}
 
@@ -58,4 +55,7 @@ nav: true
 {: style="text-align: justify"}
 
 - Online Learning Based on Total-error-rate Minimization, KEPCO KDN, South Korea, Apr 2017.
+{: style="text-align: justify"}
+
+[//]: Han-Cheol Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "[An In-Air Signature Verification System Using Wi-Fi Signals](https://doi.org/10.1145/3168776.3168799){:target="_blank"}", International Conference on Biometric Engineering and Forensics (ICBEF), 2017.
 {: style="text-align: justify"}
