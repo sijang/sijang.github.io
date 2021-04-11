@@ -22,7 +22,7 @@ nav: true
 
 
 
-## Explainable or Interpretable Machine Learning
+## Explainable and Interpretable Machine Learning
   > [Prof. Finale Doshi-Velez](https://dtak.github.io){:target="_blank"}, Harvard University.
   
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}, Harvard University.
