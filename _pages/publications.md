@@ -17,7 +17,7 @@ nav: true
 - Zainab Alhakeem and **Se-In Jang***, [An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}, arXiv Preprint, submitted to ICIP 2021.
 {: style="text-align: justify"}
 
-*Corresponding Author
+Corresponding Author*
 
 ## Works in Progress
 
