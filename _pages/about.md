@@ -26,8 +26,7 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 {: style="text-align: justify"}
 - Artificial General Intelligence
 - Neural-symbolic Learning
-- Explainable Machine Learning
-- Self-supervised Learning
+- Explainable and Interpretable Machine Learning
 - Online Machine Learning
 - Optimization
 
