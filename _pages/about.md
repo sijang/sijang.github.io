@@ -40,13 +40,10 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 ### Acknowledgements
 I really appreicate their enormous helps and suuports.
 
-> Prof. Choong-Shik Park
-
-> Prof. Kar-Ann Toh
-
-> Prof. Andrew Teoh Beng Jin
-
-> Prof. Alexandre Thiery
+- [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 University.
+- [Prof. Kar-Ann Toh](https://sites.google.com/site/machineintelligencelab){:target="_blank"}, Yonsei University.
+- [Prof. Andrew Teoh Beng Jin](https://sites.google.com/site/multimediasecuritylab){:target="_blank"}, Yonsei University.
+- [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
 
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
