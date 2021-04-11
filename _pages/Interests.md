@@ -7,7 +7,7 @@ nav: true
 ---
 
 ## Artificial General Intelligence
-  > [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 University.
+  > [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 (Youngdong) University.
   
   > [Dr. Ben Goertzel](http://goertzel.org){:target="_blank"}, SingularityNET and OpenCog.
 
