@@ -40,7 +40,7 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 ### **Acknowledgements**
 I sincerely appreciate their enormous helps and supports.
 
-- [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 University.
+- [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 (Youngdong) University.
 - [Prof. Kar-Ann Toh](https://sites.google.com/site/machineintelligencelab){:target="_blank"}, Yonsei University.
 - [Prof. Andrew Teoh Beng Jin](https://sites.google.com/site/multimediasecuritylab){:target="_blank"}, Yonsei University.
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
