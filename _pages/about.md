@@ -33,7 +33,7 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 
 
 
-[Publication List](https://sijang.github.io/publications/),
+[Selected Publication List](https://sijang.github.io/publications/),
 [Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
 
 
