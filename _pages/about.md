@@ -37,7 +37,16 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 [Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
 
 
+### Acknowledgements
+I really appreicate their enormous helps and suuports.
 
+> Prof. Choong-Shik Park
+
+> Prof. Kar-Ann Toh
+
+> Prof. Andrew Teoh Beng Jin
+
+> Prof. Alexandre Thiery
 
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
