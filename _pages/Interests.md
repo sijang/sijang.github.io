@@ -2,12 +2,12 @@
 layout: page
 permalink: /interests/
 title: Interests
-description: Research Interests.
+description: Autopoiesis is a theory of everything.
 nav: true
 ---
 
 ## Artificial General Intelligence
-  > [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 (Youngdong) University.
+  > [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, Constructive Artificial Intelligence, U1 (Youngdong) University.
   
   > [Dr. Ben Goertzel](http://goertzel.org){:target="_blank"}, SingularityNET and OpenCog.
 
