@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: Pulibcations
 description: Selected Publications.
+*Corresponding Author
 nav: true
 ---
 
@@ -55,7 +56,4 @@ nav: true
 {: style="text-align: justify"}
 
 - Online Learning Based on Total-error-rate Minimization, KEPCO KDN, South Korea, Apr 2017.
-{: style="text-align: justify"}
-
-[//]: Han-Cheol Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "[An In-Air Signature Verification System Using Wi-Fi Signals](https://doi.org/10.1145/3168776.3168799){:target="_blank"}", International Conference on Biometric Engineering and Forensics (ICBEF), 2017.
 {: style="text-align: justify"}
