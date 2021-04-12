@@ -2,7 +2,7 @@
 layout: page
 permalink: /interests/
 title: Interests
-description: Autopoiesis is a theory of everything.
+description: .
 nav: true
 ---
 
