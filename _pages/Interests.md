@@ -27,6 +27,8 @@ nav: true
   
   > [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io){:target="_blank"}, [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/){:target="_blank"}, Harvard University.
 
+  > [Prof. Zeynep Akata](https://eml-unitue.de/people/zeynep-akata){:target="_blank"}, University of Tübingen.
+
   
 
 ## Online Machine Learning
