@@ -29,7 +29,8 @@ nav: true
 
   > [Prof. Zeynep Akata](https://eml-unitue.de/people/zeynep-akata){:target="_blank"}, University of Tübingen.
 
-  
+  > [Been Kim](https://beenkim.github.io/){:target="_blank"}, Google Brain.
+
 
 ## Online Machine Learning
   > [Prof. Shai Shalev-Shwartz](https://www.cs.huji.ac.il/~shais/){:target="_blank"}, The Hebrew University.
