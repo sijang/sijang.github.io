@@ -29,7 +29,7 @@ nav: true
 
   > [Prof. Zeynep Akata](https://eml-unitue.de/people/zeynep-akata){:target="_blank"}, University of Tübingen.
 
-  > [Been Kim](https://beenkim.github.io/){:target="_blank"}, Google Brain.
+  > [Dr. Been Kim](https://beenkim.github.io/){:target="_blank"}, Google Brain.
 
 
 ## Online Machine Learning
