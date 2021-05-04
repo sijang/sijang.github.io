@@ -50,3 +50,5 @@ nav: true
 
   > [Explainable Machine Learning](https://eml-unitue.de/teaching/seminar){:target="_blank"} by Zeynep Akata
 
+## Papers
+  > [Explanations can be manipulated and geometry is to blame](https://papers.nips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf){:target="_blank"} 
