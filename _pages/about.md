@@ -8,7 +8,6 @@ profile:
   align: right
   image: SI1.jpg
   address: >
-    <p>sijang _AT_ nus.edu.sg</p>
     <p>sijang _AT_ yonsei.ac.kr</p>
     
 
