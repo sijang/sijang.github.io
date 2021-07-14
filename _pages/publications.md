@@ -46,6 +46,9 @@ nav: true
 
 
 ## Talks
+- Self-supervised Learning and Neural-symbolic Learning for Medical Image Analysis, Harvard Medical School and Massachusetts General Hospital, MA, United States, Jul 2021.
+{: style="text-align: justify"}
+
 - Self-supervised Learning and Neural-symbolic Learning for Retinal Image Analysis, University of California, San Francisco (UCSF), CA, United States, Mar 2021.
 {: style="text-align: justify"}
 
