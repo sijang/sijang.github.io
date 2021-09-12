@@ -9,6 +9,7 @@ profile:
   image: SI1.jpg
   address: >
     <p>sijang[AT]yonsei.ac.kr</p>
+    <p>sjang7[AT]mgh.harvard.edu</p>
     
 
 news: false  # includes a list of news items
@@ -16,8 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm currently a research fellow in the Department of Statistics and Applied Probability, National University of Singapore.
+I'm currently a research fellow in the Gordon Center for Medical Imaging at Massachusetts General Hospital (MGH) and Harvard Medical School.
+I was also a research fellow in the Department of Statistics and Applied Probability, National University of Singapore.
 I received the Ph.D. degree and the M.S. degree from Yonsei university, South Korea, in 2019 and 2012. I also received the B.S. degree from Youngdong university, South Korea, in 2010.
+
 {: style="text-align: justify"}
 
 
@@ -44,6 +47,7 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 - [Prof. Kar-Ann Toh](https://sites.google.com/site/machineintelligencelab){:target="_blank"}, Yonsei University.
 - [Prof. Andrew Teoh Beng Jin](https://sites.google.com/site/multimediasecuritylab){:target="_blank"}, Yonsei University.
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
+- [Dr. Kuang Gong](https://gordon.mgh.harvard.edu/gc/people/faculty/kuang-gong/){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
