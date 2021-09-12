@@ -8,7 +8,6 @@ profile:
   align: right
   image: SI1.jpg
   address: >
-    <p>sijang[AT]yonsei.ac.kr</p>
     <p>sjang7[AT]mgh.harvard.edu</p>
     
 
