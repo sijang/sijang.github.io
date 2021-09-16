@@ -19,14 +19,14 @@ nav: true
 - **Se-In Jang**, [Online Passive-Aggressive Total-Error-Rate Minimization](https://arxiv.org/abs/2002.01771){:target="_blank"}, arXiv Preprint, 2020.
 {: style="text-align: justify"}
 
-- **Se-In Jang** and Alexandre Thiery, "Explainable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning", 2021.
-{: style="text-align: justify"}
-
 - Zainab Alhakeem and **Se-In Jang**, [An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}, arXiv Preprint, 2021.
 {: style="text-align: justify"}
 
 
 ## Conferences
+- **Se-In Jang**, Michaël J.A. Girard and Alexandre Thiery, "Explainable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning", International Joint Conference on Learning & Reasoning, 2021.
+{: style="text-align: justify"}
+
 - **Se-In Jang**, Geok-Choo Tan and Kar-Ann Toh, "[Recursive Total Error Rate Minimization](https://doi.org/10.1109/TENCON.2016.7847954){:target="_blank"}", IEEE Region 10 Conference (TENCON), 2016.
 {: style="text-align: justify"}
 
