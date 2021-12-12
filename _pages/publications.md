@@ -24,6 +24,10 @@ nav: true
 
 
 ## Conferences
+- **Se-In Jang**, Michaël J.A. Girard and Alexandre Thiery, "Explainable and Interpretable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning", *[The International Workshop on Trustworthy AI for Healthcare (TAIH)](https://taih21.github.io/){:target="_blank"} at The Thirty-Sixth AAAI Conference on Artificial Intelligence*, 2021. 
+{: style="text-align: justify"}
+
+
 - **Se-In Jang**, Michaël J.A. Girard and Alexandre Thiery, "[Explainable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning](http://ceur-ws.org/Vol-2986/paper8.pdf){:target="_blank"}", *[The 15th International Workshop on Neural-Symbolic Learning and Reasoning (NeSy)](https://sites.google.com/view/nesy20/home){:target="_blank"} at International Joint Conference on Learning & Reasoning*, 2021. ([poster](http://lr2020.iit.demokritos.gr/posters/35.pdf){:target="_blank"})
 {: style="text-align: justify"}
 
