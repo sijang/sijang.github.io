@@ -45,8 +45,10 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 - [Prof. Kar-Ann Toh](https://sites.google.com/site/machineintelligencelab){:target="_blank"}, Yonsei University.
 - [Prof. Andrew Teoh Beng Jin](https://sites.google.com/site/multimediasecuritylab){:target="_blank"}, Yonsei University.
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
-- [Prof. Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 - [Dr. Kuang Gong](https://gordon.mgh.harvard.edu/gc/people/faculty/kuang-gong/){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
+- [Prof. Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
+- [Prof. Georges El Fakhri](https://gordon.mgh.harvard.edu/gc/people/faculty/georges-el-fakhri/){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
+
 
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
