@@ -42,6 +42,7 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 {: style="text-align: justify"}
 
 - [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, U1 (Youngdong) University.
+- [Prof. Jaihie Kim](https://yonsei.pure.elsevier.com/en/persons/jaihie-kim){:target="_blank"}, Yonsei University.
 - [Prof. Kar-Ann Toh](https://sites.google.com/site/machineintelligencelab){:target="_blank"}, Yonsei University.
 - [Prof. Andrew Teoh Beng Jin](https://sites.google.com/site/multimediasecuritylab){:target="_blank"}, Yonsei University.
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
