@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm currently a research fellow in the Gordon Center for Medical Imaging, Massachusetts General Hospital (MGH) and Harvard Medical School.
+I'm currently a research fellow in the Center for Advanced Medical Computing and Analysis and the Gordon Center for Medical Imaging, Massachusetts General Hospital (MGH) and Harvard Medical School.
 I was also a research fellow in the Department of Statistics and Applied Probability, National University of Singapore (2019-2021).
 I received the Ph.D. degree and the M.S. degree from Yonsei university, South Korea, in 2019 and 2012. I also received the B.S. degree from Youngdong university, South Korea, in 2010. 
 {: style="text-align: justify"}
