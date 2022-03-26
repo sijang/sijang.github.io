@@ -7,13 +7,29 @@ nav: true
 ---
 
 ## Artificial General Intelligence
-  > [Prof. Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, Constructive Artificial Intelligence, U1 (Youngdong) University.
+  > [Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, Constructive Artificial Intelligence, Professor in U1 (Youngdong) University.
   
-  > [Dr. Ben Goertzel](http://goertzel.org){:target="_blank"}, SingularityNET and OpenCog.
+  > [Ben Goertzel](http://goertzel.org){:target="_blank"}, SingularityNET and OpenCog.
+  
+  > [Gary Marcus](http://garymarcus.com/){:target="_blank"}, NYU Prof Emeritus and RobustAI Founder.
+  
+  > [Artur d'Avila Garcez](http://www.staff.city.ac.uk/~aag/){:target="_blank"}, Professor of Computer Science at City, University of London.
+  
+  > [Melanie Mitchell](https://melaniemitchell.me/){:target="_blank"}, Davis Professor, Santa Fe Institute.
+
+
+  > [Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt/){:target="_blank"}, Professor of Computer Science, KU Leuven.
+
+
+  
+
+
+
 
 
 
 ## Neural-symbolic Learning
+
   > [Neural-Symbolic Learning and Reasoning(NeSy)](http://www.neural-symbolic.org/){:target="_blank"}, NeSy association.
   
   > [Neuro-Symbolic AI](https://researcher.watson.ibm.com/researcher/view_group.php?id=10518){:target="_blank"}, IBM.
