@@ -11,6 +11,9 @@ nav: true
 ## Works in Progress
 
 
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, \\ Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith Alan Johnson and  Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", TBD, 2022. 
+{: style="text-align: justify"} 
+
 - **Se-In Jang** and Alexandre Thiery, "Self-RIQA: Self-supervised Retinal Image Quality Assessment with Pseudo Labels", TBD, 2021. 
 {: style="text-align: justify"}
 
