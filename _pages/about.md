@@ -46,7 +46,7 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 - [Prof. Kar-Ann Toh](https://sites.google.com/site/machineintelligencelab){:target="_blank"}, Yonsei University.
 - [Prof. Andrew Teoh Beng Jin](https://sites.google.com/site/multimediasecuritylab){:target="_blank"}, Yonsei University.
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
-- [Dr. Kuang Gong](https://gordon.mgh.harvard.edu/gc/people/faculty/kuang-gong/){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
+- [Prof. Kuang Gong](https://gordon.mgh.harvard.edu/gc/people/faculty/kuang-gong/){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 - [Prof. Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 - [Prof. Georges El Fakhri](https://gordon.mgh.harvard.edu/gc/people/faculty/georges-el-fakhri/){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 
