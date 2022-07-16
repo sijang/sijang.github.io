@@ -11,8 +11,6 @@ nav: true
 ## Works in Progress
 
 
-<!-- - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith Alan Johnson and Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", IEEE Medical Imaging Conference, 2022. 
-{: style="text-align: justify"}  -->
 
 - **Se-In Jang** and Alexandre Thiery, "Self-RIQA: Self-supervised Retinal Image Quality Assessment with Pseudo Labels", TBD, 2021. 
 {: style="text-align: justify"}
@@ -31,7 +29,7 @@ nav: true
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith Alan Johnson, and Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
-- Gary Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li,"Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
+- Gary Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
 - **Se-In Jang**, Tinsu Pan, Gary Ye Li, Junyu Chen, Quanzheng Li, and Kuang Gong, "PET image denoising based on transformer: evaluations on datasets of multiple tracers", The Society of Nuclear Medicine and Molecular Imaging (SNMMI), 2022. 
