@@ -29,10 +29,10 @@ nav: true
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith Alan Johnson, and Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
-- Gary Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
+- Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
-- **Se-In Jang**, Tinsu Pan, Gary Ye Li, Junyu Chen, Quanzheng Li, and Kuang Gong, "PET image denoising based on transformer: evaluations on datasets of multiple tracers", The Society of Nuclear Medicine and Molecular Imaging (SNMMI), 2022. 
+- **Se-In Jang**, Tinsu Pan, Ye Li, Junyu Chen, Quanzheng Li, and Kuang Gong, "PET image denoising based on transformer: evaluations on datasets of multiple tracers", The Society of Nuclear Medicine and Molecular Imaging (SNMMI), 2022. 
 {: style="text-align: justify"}
 
 - **Se-In Jang**, Michaël J.A. Girard and Alexandre Thiery, "Explainable and Interpretable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning", *[The International Workshop on Trustworthy AI for Healthcare (TAIH)](https://taih21.github.io/){:target="_blank"} at [the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI22)](https://aaai.org/Conferences/AAAI-22/){:target="_blank"}*, 2022. 
