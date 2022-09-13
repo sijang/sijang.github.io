@@ -9,7 +9,7 @@ nav: true
 
 
 ## Works in Progress
-- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising", TBD, 2022. 
+- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300)", TBD, 2022. 
 {: style="text-align: justify"}
 
 - **Se-In Jang** and Alexandre Thiery, "Self-RIQA: Self-supervised Retinal Image Quality Assessment with Pseudo Labels", TBD, 2021. 
