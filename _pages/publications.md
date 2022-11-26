@@ -26,7 +26,10 @@ nav: true
 
 
 ## Conferences
-- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith Alan Johnson, and Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", IEEE Medical Imaging Conference (MIC), 2022. 
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "Cross-modality Transformer for Low-dose Tau PET Imaging", Human Amyloid Imaging Conference (HAI), 2023. 
+{: style="text-align: justify"}
+
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith A. Johnson, and Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
 - Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
