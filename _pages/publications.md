@@ -35,6 +35,9 @@ nav: true
 - Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
+- Ye Li, Jianan Cui, Junyu Chen, Guodong Zeng, Scott Wollenweber, Floris Jansen, **Se-In Jang**, Kyungsang Kim, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", International Workshop on Machine Learning for Medical Image Reconstruction, 2022. 
+{: style="text-align: justify"}
+
 - **Se-In Jang**, Tinsu Pan, Ye Li, Junyu Chen, Quanzheng Li, and Kuang Gong, "PET image denoising based on transformer: evaluations on datasets of multiple tracers", The Society of Nuclear Medicine and Molecular Imaging (SNMMI), 2022. 
 {: style="text-align: justify"}
 
