@@ -25,11 +25,21 @@ nav: true
 
   > Do it alone. Do it broke. Do it tired. Do it scared. Just do it.
   
+  > Sacrifice a few years of comfort for decades of freedom.
+  
+  > Have patience -- all things are difficult before they become easy.
+  
+  > Hardship often prepares an ordinary person for an extraordinary destiny.
+  
+  > Whatever you are, be a good one.
+  
   
 ## To go further
   > Worrying about losing is losing before you begin.
   
   > Don't get burned twice by the same flame.
+
+  > As long as you are alive, no obstacle is permanent.
 
   > Too many of us are not living our dreams because we are living our fears.
 
@@ -38,12 +48,23 @@ nav: true
   > To improve is to change, to be perfect is to change often.
 
 ## Life
+  > The two most important days in your life: the day you are born and the day you find out why.
+
   > Turn your wounds into wisdom.
 
   > Be selfish with your time. A lot of people don't deserve it.
 
   > Silence is the best answer to someone who doesn't value your words.
 
+  > Your struggle is part of your story.
+
+  > You only fail when you stop trying.
+
+  > Don't give up. You are closer than you think.
+
+  > Be teachable. You're not always right.
+
 ## AGI
   > Everything is constructive.
+
   > Addressing symbol is the only way to reach there.
