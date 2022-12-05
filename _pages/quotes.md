@@ -32,6 +32,12 @@ nav: true
   > Hardship often prepares an ordinary person for an extraordinary destiny.
   
   > Whatever you are, be a good one.
+
+  > I never lose, either I win or I learn.
+  
+  > Train your mind to be calm in every situation.
+
+  > Big dreams require healthy habits and healthy habits require self-discipline.
   
   
 ## To go further
@@ -46,6 +52,10 @@ nav: true
   > Find people who will make you better.
 
   > To improve is to change, to be perfect is to change often.
+
+  > It's comfortable to walk but no flowers grow there.
+
+  > Your comfort zone will destroy your dreams.
 
 ## Life
   > The two most important days in your life: the day you are born and the day you find out why.
@@ -63,6 +73,8 @@ nav: true
   > Don't give up. You are closer than you think.
 
   > Be teachable. You're not always right.
+  
+  > Be proud -- you survived the days you thought you couldn't.
 
 ## AGI
   > Everything is constructive.
