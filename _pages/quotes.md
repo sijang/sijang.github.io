@@ -31,3 +31,7 @@ nav: true
   > Be selfish with your time. A lot of people don't deserve it.
 
   > Silence is the best answer to someone who doesn't value your words.
+
+## AGI
+  > Everything is constructive.
+  > Addressing symbol is the only way to reach there.
