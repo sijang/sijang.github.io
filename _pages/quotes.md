@@ -38,9 +38,14 @@ nav: true
   > Train your mind to be calm in every situation.
 
   > Big dreams require healthy habits and healthy habits require self-discipline.
+
+  > if you stay positive in a negative situation -- you win.
+  
   
   
 ## To go further
+  > Train your mind to see the good in everything.
+  
   > Worrying about losing is losing before you begin.
   
   > Don't get burned twice by the same flame.
@@ -75,6 +80,8 @@ nav: true
   > Be teachable. You're not always right.
   
   > Be proud -- you survived the days you thought you couldn't.
+
+  > Move in silence, only speak when it's time to say checkmate.
 
 ## AGI
   > Everything is constructive.
