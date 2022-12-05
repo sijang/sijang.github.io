@@ -7,6 +7,8 @@ nav: true
 ---
 
 ## To survive
+  > When you learn to survive without anyone, you can survive anything.
+
   > Everything negative -- pressure, challenges -- is all an opportunity for you to rise.
 
   > The best way to predict the future is to create it.
@@ -40,6 +42,14 @@ nav: true
   > Big dreams require healthy habits and healthy habits require self-discipline.
 
   > if you stay positive in a negative situation -- you win.
+
+  > There is no growth without pain.
+  
+  > Patience is power.
+
+  > The moment when you want to quit, is the moment when you need to keep pushing.
+
+  > Problems are not stop signs, they are guidelines.
   
   
   
@@ -62,6 +72,22 @@ nav: true
 
   > Your comfort zone will destroy your dreams.
 
+  > Growth doesn't happen in your comfort zone.
+  
+  > Confidence is built by facing what you fear.
+
+  > Don't complain. Rebuild yourself.
+
+  > Don't blame the distractions improve your focus.
+
+  > Your only limit is you.
+
+  > Accept what you can't change. Change what you can't accept.
+
+  > Determine your priorities and focus on them.
+
+  > Be so good they can't ignore you.
+
 ## Life
   > The two most important days in your life: the day you are born and the day you find out why.
 
@@ -82,6 +108,30 @@ nav: true
   > Be proud -- you survived the days you thought you couldn't.
 
   > Move in silence, only speak when it's time to say checkmate.
+  
+  > Being alone is a power very few can handle.
+
+  > Don't call it a problem. Instead, call it a challenge.
+
+  > Believing in yourself is the first secret to success.
+
+  > Learn how to turn a negative mind into a postiive one.
+
+  > Never tolerate disrespect, not even from yourself.
+
+  > One day you will thank yourself for not giving up.
+
+  > Change the world by being yourself.
+
+  > Whatever you do, do it well.
+
+  > Don't you know your imperfections are a blessing.
+
+  > If life were predictable it would cease to be life and be without flavor.
+
+  > The big lesson in life is never be scared of anyone or anything.
+
+
 
 ## AGI
   > Everything is constructive.
