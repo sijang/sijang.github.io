@@ -14,6 +14,8 @@ nav: true
   > Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.
 
   > Make each day your masterpiece.
+
+  > If you only walk on sunny days, you'll never reach your destination.
   
   
 ## To go further
@@ -24,4 +26,8 @@ nav: true
   > To improve is to change, to be perfect is to change often.
 
 ## Life
+  > Turn your wounds into wisdom.
+
   > Be selfish with your time. A lot of people don't deserve it.
+
+  > Silence is the best answer to someone who doesn't value your words.
