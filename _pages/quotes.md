@@ -88,6 +88,8 @@ nav: true
 
   > Be so good they can't ignore you.
 
+  > Be teachable. You're not always right.
+
 ## Life
   > The two most important days in your life: the day you are born and the day you find out why.
 
@@ -102,8 +104,6 @@ nav: true
   > You only fail when you stop trying.
 
   > Don't give up. You are closer than you think.
-
-  > Be teachable. You're not always right.
   
   > Be proud -- you survived the days you thought you couldn't.
 
