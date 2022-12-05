@@ -16,9 +16,21 @@ nav: true
   > Make each day your masterpiece.
 
   > If you only walk on sunny days, you'll never reach your destination.
+
+  > Your future needs you, your past doesn't.
+
+  > Don't cry because it's over. Smile because it happened.
+
+  > Allow yourself to be a beginner. No one starts off being excellent.
+
+  > Do it alone. Do it broke. Do it tired. Do it scared. Just do it.
   
   
 ## To go further
+  > Worrying about losing is losing before you begin.
+  
+  > Don't get burned twice by the same flame.
+
   > Too many of us are not living our dreams because we are living our fears.
 
   > Find people who will make you better.
