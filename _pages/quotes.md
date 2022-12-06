@@ -136,4 +136,6 @@ nav: true
 ## AGI
   > Everything is constructive.
 
-  > Addressing symbol is the only way to reach there.
+  > Symbol is the key to reach there.
+
+  > Reprogrammable is necesary.
