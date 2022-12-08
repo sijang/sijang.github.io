@@ -138,4 +138,4 @@ nav: true
 
   > Symbol is the key to reach there.
 
-  > Reprogrammable is necesary.
+  > Self-reprogrammability is necesary.
