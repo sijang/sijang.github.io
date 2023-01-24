@@ -15,7 +15,7 @@ nav: true
 - **Se-In Jang** and Alexandre Thiery, "Self-RIQA: Self-supervised Retinal Image Quality Assessment with Pseudo Labels", TBD, 2021. 
 {: style="text-align: justify"}
 
-- **Se-In Jang**, "Deterministic Online Classification: Non-iteratively Reweighted Recursive Least-Squares for Binary Class Rebalancing", 2021.
+- **Se-In Jang**, "[Deterministic Online Classification: Non-iteratively Reweighted Recursive Least-Squares for Binary Class Rebalancing](https://arxiv.org/abs/2301.09230){:target="_blank"}", 2023.
 {: style="text-align: justify"}
 
 - **Se-In Jang**, "[Online Passive-Aggressive Total-Error-Rate Minimization](https://arxiv.org/abs/2002.01771){:target="_blank"}", *arXiv Preprint*, 2020.
