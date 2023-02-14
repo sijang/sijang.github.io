@@ -9,6 +9,9 @@ nav: true
 
 
 ## Works in Progress
+- **Se-In Jang**, Tinsu Pan, and Kuang Gong, "[Phase-matched PET/CT Imaging through Data-driven Gated CT and Transformer network-based Image Registration]", TBD, 2023. 
+{: style="text-align: justify"}
+
 - **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", TBD, 2022. 
 {: style="text-align: justify"}
 
