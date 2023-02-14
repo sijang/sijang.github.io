@@ -15,13 +15,13 @@ nav: true
 - **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", TBD, 2022. 
 {: style="text-align: justify"}
 
-- **Se-In Jang** and Alexandre Thiery, "Self-RIQA: Self-supervised Retinal Image Quality Assessment with Pseudo Labels", TBD, 2021. 
-{: style="text-align: justify"}
-
 - **Se-In Jang**, "[Deterministic Online Classification: Non-iteratively Reweighted Recursive Least-Squares for Binary Class Rebalancing](https://arxiv.org/abs/2301.09230){:target="_blank"}", 2023.
 {: style="text-align: justify"}
 
 - **Se-In Jang**, "[Online Passive-Aggressive Total-Error-Rate Minimization](https://arxiv.org/abs/2002.01771){:target="_blank"}", *arXiv Preprint*, 2020.
+{: style="text-align: justify"}
+
+- **Se-In Jang** and Alexandre Thiery, "Self-RIQA: Self-supervised Retinal Image Quality Assessment with Pseudo Labels", TBD, 2021. 
 {: style="text-align: justify"}
 
 - Zainab Alhakeem and **Se-In Jang**, "[An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}", *arXiv Preprint*, 2021.
