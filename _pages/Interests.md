@@ -18,7 +18,7 @@ nav: true
   > [Melanie Mitchell](https://melaniemitchell.me/){:target="_blank"}, Davis Professor, Santa Fe Institute.
 
 
-  > [Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt/){:target="_blank"}, Professor of Computer Science, KU Leuven.
+  > [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky){:target="_blank"}, Machine Intelligence Research Institute (MIRI).
 
 
   
