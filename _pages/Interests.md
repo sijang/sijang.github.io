@@ -17,9 +17,9 @@ nav: true
   
   > [Melanie Mitchell](https://melaniemitchell.me/){:target="_blank"}, Davis Professor, Santa Fe Institute.
 
-
   > [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky){:target="_blank"}, Machine Intelligence Research Institute (MIRI).
 
+  > - https://www.youtube.com/watch?v=AaTRHFaaPG8
 
   
 
