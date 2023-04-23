@@ -9,7 +9,7 @@ nav: true
 
 
 ## Works in Progress
-- **Se-In Jang**, Tinsu Pan, and Kuang Gong, "Phase-matched PET/CT Imaging through Data-driven Gated CT and Transformer network-based Image Registration", TBD, 2023. 
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging", TBD, 2023. 
 {: style="text-align: justify"}
 
 - **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", TBD, 2022. 
@@ -29,6 +29,9 @@ nav: true
 
 
 ## Conferences
+- **Se-In Jang**, Tinsu Pan, and Kuang Gong, "Phase-matched PET/CT Imaging through Data-driven Gated CT and Transformer network-based Image Registration", SNMMI, 2023. 
+{: style="text-align: justify"}
+
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "Cross-modality Transformer for Low-dose Tau PET Imaging", Human Amyloid Imaging Conference (HAI), 2023. 
 {: style="text-align: justify"}
 
