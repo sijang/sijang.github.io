@@ -41,12 +41,6 @@ nav: true
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Ye Li, Julie C. Price, Georges El Fakhri, Quanzheng Li, Keith A. Johnson, and Kuang Gong, "Low-Dose Tau PET Imaging Based on Swin Restormer with Diagonally Scaled Self-Attention", IEEE Medical Imaging Conference (MIC), 2022. 
 {: style="text-align: justify"}
 
-- Ye Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", IEEE Medical Imaging Conference (MIC), 2022. 
-{: style="text-align: justify"}
-
-- Ye Li, Jianan Cui, Junyu Chen, Guodong Zeng, Scott Wollenweber, Floris Jansen, **Se-In Jang**, Kyungsang Kim, Kuang Gong, and Quanzheng Li, "Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation", International Workshop on Machine Learning for Medical Image Reconstruction, 2022. 
-{: style="text-align: justify"}
-
 - **Se-In Jang**, Tinsu Pan, Ye Li, Junyu Chen, Quanzheng Li, and Kuang Gong, "PET image denoising based on transformer: evaluations on datasets of multiple tracers", The Society of Nuclear Medicine and Molecular Imaging (SNMMI), 2022. 
 {: style="text-align: justify"}
 
