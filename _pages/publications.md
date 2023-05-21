@@ -68,6 +68,10 @@ nav: true
 - **Se-In Jang**, Kwontaeg Choi, Kar-Ann Toh, Andrew Beng Jin Teoh and Jaihie Kim, "[Object Tracking Based on An Online Learning Network with Total Error Rate Minimization](https://doi.org/10.1016/j.patcog.2014.07.020){:target="_blank"}", *Pattern Recognition (IF = 7.74)*, vol. 48, no. 1, pp. 126-139, Jan 2015.
 {: style="text-align: justify"}
 
+## Book
+- **Se-In Jang** and Kuang Gong, "[Attenuation Correction for Quantitative PET/MR Imaging](https://www.routledge.com/Medical-Image-Synthesis-Methods-and-Clinical-Applications/Yang/p/book/9781032152844){:target="_blank"}", Chapter 8, *Medical Image Synthesis: Methods and Clinical Applications*, Jul 2023. 
+{: style="text-align: justify"}
+
 
 ## Talks
 - Self-supervised Learning and Neural-symbolic Learning for Medical Image Analysis, *Harvard Medical School*, MA, United States, Jul 2021.
