@@ -69,7 +69,7 @@ nav: true
 {: style="text-align: justify"}
 
 ## Book
-- **Se-In Jang** and Kuang Gong, "[Attenuation Correction for Quantitative PET/MR Imaging](https://www.routledge.com/Medical-Image-Synthesis-Methods-and-Clinical-Applications/Yang/p/book/9781032152844){:target="_blank"}", Chapter 8, *Medical Image Synthesis: Methods and Clinical Applications*, Jul 2023. 
+- **Se-In Jang** and Kuang Gong, "[Attenuation Correction for Quantitative PET/MR Imaging](https://books.google.com/books?hl=en&lr=&id=lofAEAAAQBAJ&oi=fnd&pg=PT182&dq=info:aScdgzVwG_8J:scholar.google.com&ots=ZWUuJYbbjs&sig=T_TE-3lTBgYhTDF30x5Q0d-NFXI#v=onepage&q&f=false){:target="_blank"}", Chapter 8, *Medical Image Synthesis: Methods and Clinical Applications*, Jul 2023. 
 {: style="text-align: justify"}
 
 
