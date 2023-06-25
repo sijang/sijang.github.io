@@ -77,6 +77,9 @@ nav: true
 - A Cross-modality Transformer Network for Low-dose Tau PET/CT Imaging, *Harvard Medical School*, MA, United States, Mar 2023.
 {: style="text-align: justify"}
 
+- Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising, *Harvard Medical School*, MA, United States, Sep 2022.
+{: style="text-align: justify"}
+
 - Self-supervised Learning and Neural-symbolic Learning for Medical Image Analysis, *Harvard Medical School*, MA, United States, Jul 2021.
 {: style="text-align: justify"}
 
