@@ -9,7 +9,7 @@ nav: true
 
 
 ## Works in Progress
-- **Se-In Jang**, Cristina Lois, Emma Thibault, J. Alex Becker, Yafei Dong, Marc D. Normandin, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models", TBD, 2023. 
+- **Se-In Jang**, Cristina Lois, Emma Thibault, J. Alex Becker, Yafei Dong, Marc D. Normandin, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "[TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models](https://arxiv.org/abs/2306.11984){:target="_blank"}", TBD, 2023. 
 {: style="text-align: justify"}
 
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/CT Imaging", TBD, 2023. 
