@@ -26,8 +26,9 @@ I received the Ph.D. degree and the M.S. degree from Yonsei university, South Ko
 {: style="text-align: justify"}
 - Artificial General Intelligence
 - Neural-symbolic Learning
-- Medical Imaging 
+- Medical Imaging (Denoising, Registration, Segmentation, Quality Assessment)
 - Explainable AI
+- Generative AI
 - Self-supervised Learning
 - Online Machine Learning
 - Optimization
