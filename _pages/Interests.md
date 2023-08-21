@@ -8,6 +8,8 @@ nav: true
 
 ## Artificial General Intelligence
   > [Choong-Shik Park](https://www.researchgate.net/profile/Choong-Shik-Park){:target="_blank"}, Constructive Artificial Intelligence, Professor in U1 (Youngdong) University.
+
+  > - [Constructive AI, https://www.youtube.com/watch?v=Jof2Q8-uJFM](https://www.youtube.com/watch?v=Jof2Q8-uJFM){:target="_blank"}
   
   > [Ben Goertzel](http://goertzel.org){:target="_blank"}, SingularityNET and OpenCog.
   
@@ -68,3 +70,6 @@ nav: true
 
 ## Papers
   > [Explanations can be manipulated and geometry is to blame](https://papers.nips.cc/paper/2019/file/bb836c01cdc9120a9c984c525e4b1a4a-Paper.pdf){:target="_blank"}, NIPS 2019.
+
+## Books
+  > Bill Bryson, [The Body: A Guide for Occupants](https://en.wikipedia.org/wiki/The_Body:_A_Guide_for_Occupants){:target="_blank"}
