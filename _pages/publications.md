@@ -12,9 +12,6 @@ nav: true
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/CT Imaging", TBD, 2023. 
 {: style="text-align: justify"}
 
-- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", TBD, 2022. 
-{: style="text-align: justify"}
-
 - **Se-In Jang**, "[Deterministic Online Classification: Non-iteratively Reweighted Recursive Least-Squares for Binary Class Rebalancing](https://arxiv.org/abs/2301.09230){:target="_blank"}", 2023.
 {: style="text-align: justify"}
 
@@ -58,6 +55,12 @@ nav: true
 
 
 ## Journals
+- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Dec 2023. 
+{: style="text-align: justify"}
+
+- Zainab Alhakeem, **Se-In Jang**, and Hong-Goo Kang, "[Disentangled Representations in Local-Global Contexts for Arabic Dialect Identification](https://TBD){:target="_blank"}", *IEEE/ACM Transactions on Audio, Speech, and Language Processing (IF = 5.4)*, Dec 2023. 
+{: style="text-align: justify"}
+
 - **Se-In Jang**, Geok-Choo Tan, Kar-Ann Toh and Andrew Beng Jin Teoh, "[Online Heterogeneous Face Recognition Based on Total-Error-Rate Minimization](https://doi.org/10.1109/TSMC.2017.2724761){:target="_blank"}", *IEEE Trans. on Systems, Man, and Cybernetics: Systems (IF = 13.451)*, vol. 50, no. 4, pp. 126-139, Apr 2020. 
 {: style="text-align: justify"}
 
