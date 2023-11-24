@@ -19,6 +19,21 @@ nav: true
 {: style="text-align: justify"}
 
 
+## Journals
+- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Dec 2023. 
+{: style="text-align: justify"}
+
+- Zainab Alhakeem, **Se-In Jang**, and Hong-Goo Kang, "[Disentangled Representations in Local-Global Contexts for Arabic Dialect Identification](https://TBD){:target="_blank"}", *IEEE/ACM Transactions on Audio, Speech, and Language Processing (IF = 5.4)*, Dec 2023. 
+{: style="text-align: justify"}
+
+- Gary Y. Li, Junyu Chen, **Se-In Jang**, Kuang Gong, and Quanzheng Li, "[SwinCross: Cross-modal Swin transformer for head-and-neck tumor segmentation in PET/CT images](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16703){:target="_blank"}", *Medical Physics (IF = 3.8)*, Sep 2023. 
+{: style="text-align: justify"}
+
+- **Se-In Jang**, Geok-Choo Tan, Kar-Ann Toh and Andrew Beng Jin Teoh, "[Online Heterogeneous Face Recognition Based on Total-Error-Rate Minimization](https://doi.org/10.1109/TSMC.2017.2724761){:target="_blank"}", *IEEE Trans. on Systems, Man, and Cybernetics: Systems (IF = 13.451)*, vol. 50, no. 4, pp. 126-139, Apr 2020. 
+{: style="text-align: justify"}
+
+- **Se-In Jang**, Kwontaeg Choi, Kar-Ann Toh, Andrew Beng Jin Teoh and Jaihie Kim, "[Object Tracking Based on An Online Learning Network with Total Error Rate Minimization](https://doi.org/10.1016/j.patcog.2014.07.020){:target="_blank"}", *Pattern Recognition (IF = 7.74)*, vol. 48, no. 1, pp. 126-139, Jan 2015.
+{: style="text-align: justify"}
 
 
 ## Conferences
@@ -54,18 +69,6 @@ nav: true
 {: style="text-align: justify"}
 
 
-## Journals
-- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://arxiv.org/abs/2209.03300){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Dec 2023. 
-{: style="text-align: justify"}
-
-- Zainab Alhakeem, **Se-In Jang**, and Hong-Goo Kang, "[Disentangled Representations in Local-Global Contexts for Arabic Dialect Identification](https://TBD){:target="_blank"}", *IEEE/ACM Transactions on Audio, Speech, and Language Processing (IF = 5.4)*, Dec 2023. 
-{: style="text-align: justify"}
-
-- **Se-In Jang**, Geok-Choo Tan, Kar-Ann Toh and Andrew Beng Jin Teoh, "[Online Heterogeneous Face Recognition Based on Total-Error-Rate Minimization](https://doi.org/10.1109/TSMC.2017.2724761){:target="_blank"}", *IEEE Trans. on Systems, Man, and Cybernetics: Systems (IF = 13.451)*, vol. 50, no. 4, pp. 126-139, Apr 2020. 
-{: style="text-align: justify"}
-
-- **Se-In Jang**, Kwontaeg Choi, Kar-Ann Toh, Andrew Beng Jin Teoh and Jaihie Kim, "[Object Tracking Based on An Online Learning Network with Total Error Rate Minimization](https://doi.org/10.1016/j.patcog.2014.07.020){:target="_blank"}", *Pattern Recognition (IF = 7.74)*, vol. 48, no. 1, pp. 126-139, Jan 2015.
-{: style="text-align: justify"}
 
 ## Book
 - **Se-In Jang** and Kuang Gong, "[Attenuation Correction for Quantitative PET/MR Imaging](https://books.google.com/books?hl=en&lr=&id=lofAEAAAQBAJ&oi=fnd&pg=PT182&dq=info:aScdgzVwG_8J:scholar.google.com&ots=ZWUuJYbbjs&sig=T_TE-3lTBgYhTDF30x5Q0d-NFXI#v=onepage&q&f=false){:target="_blank"}", Chapter 8, *Medical Image Synthesis: Methods and Clinical Applications*, Jul 2023. 
