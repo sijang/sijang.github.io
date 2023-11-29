@@ -20,7 +20,7 @@ nav: true
 
 
 ## Journals
-- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://ieeexplore.ieee.org/document/10327759){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Nov 2023. [Code](https://github.com/sijang/SpachTransformer){:target="_blank"}
+- **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://ieeexplore.ieee.org/document/10327759){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Nov 2023. [[Code]](https://github.com/sijang/SpachTransformer){:target="_blank"}
 {: style="text-align: justify"}
 
 - Zainab Alhakeem, **Se-In Jang**, and Hong-Goo Kang, "[Disentangled Representations in Local-Global Contexts for Arabic Dialect Identification](https://TBD){:target="_blank"}", *IEEE/ACM Transactions on Audio, Speech, and Language Processing (IF = 5.4)*, Nov 2023. 
