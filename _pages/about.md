@@ -51,7 +51,7 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
 - [Prof. Kuang Gong](https://scholar.google.com/citations?hl=en&user=zc6kc4kAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, University of Florida.
 - [Prof. Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
-- [Prof. Georges El Fakhri](https://gordon.mgh.harvard.edu/gc/people/faculty/georges-el-fakhri/){:target="_blank"}, Yale Universeity.
+- [Prof. Georges El Fakhri](https://scholar.google.com/citations?user=QIablCYAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
 - [Prof. Jinsong Ouyang](https://scholar.google.com/citations?user=bp7V1bYAAAAJ&hl=en){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 - [Prof. Chao Ma](https://scholar.google.com/citations?hl=en&user=EYvXTFcAAAAJ){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
 
