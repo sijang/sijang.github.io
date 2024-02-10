@@ -8,7 +8,7 @@ profile:
   align: right
   image: SI1.jpg
   address: >
-    <p>sjang7[AT]mgh.harvard.edu</p>
+    <p>sein.jang[AT]yale.edu</p>
     
 
 news: false  # includes a list of news items
