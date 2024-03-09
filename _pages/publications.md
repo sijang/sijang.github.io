@@ -9,7 +9,7 @@ nav: true
 
 
 ## Works in Progress
-- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/CT Imaging", TBD, 2023. 
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging", TBD, 2023. 
 {: style="text-align: justify"}
 
 - **Se-In Jang**, "[Deterministic Online Classification: Non-iteratively Reweighted Recursive Least-Squares for Binary Class Rebalancing](https://arxiv.org/abs/2301.09230){:target="_blank"}", 2023.
