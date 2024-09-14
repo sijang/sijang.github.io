@@ -52,6 +52,7 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 - [Prof. Georges El Fakhri](https://scholar.google.com/citations?user=QIablCYAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
 - [Prof. Jinsong Ouyang](https://scholar.google.com/citations?user=bp7V1bYAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
 - [Prof. Chao Ma](https://scholar.google.com/citations?hl=en&user=EYvXTFcAAAAJ){:target="_blank"}, Yale Universeity.
+- [Prof. Thibault Marin](https://scholar.google.com/citations?user=XFiwBSQAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
 
 
 
