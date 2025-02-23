@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently serving as a research associate at the Yale School of Medicine, Yale University, starting from 2024 to the present. My prior experience includes a research fellowship spanning from 2021 to 2023 at both the Gordon Center for Medical Imaging and the Center for Advanced Medical Computing and Analysis, under the auspices of Massachusetts General Hospital (MGH) and Harvard Medical School. Before that, I was engaged as a research fellow in the Department of Statistics and Applied Probability at the National University of Singapore from 2019 to 2021. My educational background is rooted in South Korea, where I received my Ph.D. from Yonsei University in 2019, following an M.S. degree in 2012, and a B.S. degree from Youngdong University in 2010.
+I am currently working as an Associate Research Scientist at the Department of Radiology & Biomedical Imaging, Yale University, starting in 2025. Prior to this, I served as a Research Associate in the same department from 2024 to 2025.
+Before joining Yale, I was a Research Fellow from 2021 to 2023 at both the Gordon Center for Medical Imaging and the Center for Advanced Medical Computing and Analysis, affiliated with Massachusetts General Hospital (MGH) and Harvard Medical School. From 2019 to 2021, I held a Research Fellow position in the Department of Statistics and Applied Probability at the National University of Singapore.
+My academic background is rooted in South Korea, where I earned my Ph.D. from Yonsei University in 2019, following an M.S. degree in 2012 and a B.S. degree from Youngdong University in 2010.
 {: style="text-align: justify"}
 
 
