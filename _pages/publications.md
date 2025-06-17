@@ -8,10 +8,7 @@ nav: true
 
 
 
-## Works in Progress
-- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging", TBD, 2023. 
-{: style="text-align: justify"}
-
+## Preprints
 - **Se-In Jang**, "[Deterministic Online Classification: Non-iteratively Reweighted Recursive Least-Squares for Binary Class Rebalancing](https://arxiv.org/abs/2301.09230){:target="_blank"}", 2023.
 {: style="text-align: justify"}
 
@@ -20,8 +17,12 @@ nav: true
 
 
 ## Journals
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging", *IEEE Transactions on Radiation and Plasma Medical Sciences (IF = 4.6)*, May 2025. 
+{: style="text-align: justify"}
+
 - **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://ieeexplore.ieee.org/document/10327759){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Nov 2023. [[Code]](https://github.com/sijang/SpachTransformer){:target="_blank"}
 {: style="text-align: justify"}
+
 
 - Zainab Alhakeem, **Se-In Jang**, and Hong-Goo Kang, "[Disentangled Representations in Local-Global Contexts for Arabic Dialect Identification](https://ieeexplore.ieee.org/document/10349904){:target="_blank"}", *IEEE/ACM Transactions on Audio, Speech, and Language Processing (IF = 5.4)*, Nov 2023. 
 {: style="text-align: justify"}
