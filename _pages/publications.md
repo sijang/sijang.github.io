@@ -17,7 +17,7 @@ nav: true
 
 
 ## Journals
-- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "[A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11045209){:target="_blank"}", *IEEE Transactions on Radiation and Plasma Medical Sciences (IF = 4.6)*, May 2025. 
+- **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "[A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging](https://ieeexplore.ieee.org/document/11045209){:target="_blank"}", *IEEE Transactions on Radiation and Plasma Medical Sciences (IF = 4.6)*, May 2025. 
 {: style="text-align: justify"}
 
 - **Se-In Jang**, Tinsu Pan, Ye Li, Pedram Heidari, Junyu Chen, Quanzheng Li, and Kuang Gong, "[Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising](https://ieeexplore.ieee.org/document/10327759){:target="_blank"}", *IEEE Transactions on Medical Imaging (IF = 10.6)*, Nov 2023. [[Code]](https://github.com/sijang/SpachTransformer){:target="_blank"}
