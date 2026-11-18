@@ -15,23 +15,8 @@ nav: true
 - **Se-In Jang**, "[Online Passive-Aggressive Total-Error-Rate Minimization](https://arxiv.org/abs/2002.01771){:target="_blank"}", *arXiv Preprint*, 2020.
 {: style="text-align: justify"}
 
-- Zainab Alhakeem and **Se-In Jang**, "[An LBP-HOG Descriptor Based on Matrix Projection For Mammogram Classification](https://arxiv.org/abs/1904.00187){:target="_blank"}", *arXiv Preprint*, 2019.
-{: style="text-align: justify"}
-
 
 ## Journals
-- **Se-In Jang**, Y. Najmaoui, Y. Chemli, S. Vafay Eslahi, N. Guehl, M. Dhaynaut, Georges El Fakhri, Chao Ma, Jinsong Ouyang, and Thibault Marin, "Deep Learning Enables Quantitative Kinetic Modeling from Low-dose Dynamic [<sup>18</sup>F]-MK6240 Tau PET", *Scientific Reports*, 2026.
-{: style="text-align: justify"}
-
-- Z. Zhu, Y. Huang, Y. Li, **Se-In Jang**, Y. Zheng, and C. Lu, "Spatial-channel Feature Fusion Transformer for Multimodal Tumor Delineation", *Applied Soft Computing*, p. 116086, Jul 2026.
-{: style="text-align: justify"}
-
-- X. Liu, Thibault Marin, S. Vafay Eslahi, A. Tiss, Y. Chemli, Y. Najmaoui, **Se-In Jang**, Georges El Fakhri, and Jinsong Ouyang, "Scan-wise Generalized PET Denoising with Contrastive Adversarial Learning", *Physics in Medicine & Biology*, vol. 71, no. 10, p. 105030, May 2026.
-{: style="text-align: justify"}
-
-- Y. Gong, **Se-In Jang**, W. Shao, Y. Su, and Kuang Gong, "TauGenNet: Plasma-Driven Tau PET Image Synthesis via Text-Guided 3D Diffusion Models", *IEEE Transactions on Radiation and Plasma Medical Sciences*, Apr 2026.
-{: style="text-align: justify"}
-
 - **Se-In Jang**, Cristina Lois, John Alex Becker, Emma Thibault, Julie C. Price, Keith A. Johnson, Georges El Fakhri, and Kuang Gong, "[A Cross-modality Transformer Network for Low-dose Tau PET/MR Imaging](https://ieeexplore.ieee.org/document/11045209){:target="_blank"}", *IEEE Transactions on Radiation and Plasma Medical Sciences (IF = 4.6)*, May 2025. 
 {: style="text-align: justify"}
 
@@ -75,9 +60,6 @@ nav: true
 - **Se-In Jang**, Michaël J.A. Girard and Alexandre Thiery, "[Explainable Diabetic Retinopathy Classification Based on Neural-Symbolic Learning](http://ceur-ws.org/Vol-2986/paper8.pdf){:target="_blank"}", *[The 15th International Workshop on Neural-Symbolic Learning and Reasoning (NeSy)](https://sites.google.com/view/nesy20/home){:target="_blank"} at [International Joint Conference on Learning & Reasoning](http://lr2020.iit.demokritos.gr/){:target="_blank"}*, 2021. <!--   ([poster](http://lr2020.iit.demokritos.gr/posters/35.pdf){:target="_blank"}) -->
 {: style="text-align: justify"}
 
-- H.-C. Moon, **Se-In Jang**, Kangrok Oh and Kar-Ann Toh, "An In-Air Signature Verification System Using Wi-Fi Signals", *International Conference on Biometric Engineering and Forensics (ICBEF)*, 2017.
-{: style="text-align: justify"}
-
 - **Se-In Jang**, Geok-Choo Tan and Kar-Ann Toh, "[Recursive Total Error Rate Minimization](https://doi.org/10.1109/TENCON.2016.7847954){:target="_blank"}", *IEEE Region 10 Conference (TENCON)*, 2016.
 {: style="text-align: justify"}
 
@@ -91,14 +73,6 @@ nav: true
 
 ## Book
 - **Se-In Jang** and Kuang Gong, "[Attenuation Correction for Quantitative PET/MR Imaging](https://books.google.com/books?hl=en&lr=&id=lofAEAAAQBAJ&oi=fnd&pg=PT182&dq=info:aScdgzVwG_8J:scholar.google.com&ots=ZWUuJYbbjs&sig=T_TE-3lTBgYhTDF30x5Q0d-NFXI#v=onepage&q&f=false){:target="_blank"}", Chapter 8, *Medical Image Synthesis: Methods and Clinical Applications*, Jul 2023. 
-{: style="text-align: justify"}
-
-
-## Patents
-- **Se-In Jang**, "Self Supervised Learning based Apparatus and Method for Retinal Image Quality Assessment", Korean Patent No. 10-2749217 (10-2022-0119506), Nov 2025.
-{: style="text-align: justify"}
-
-- **Se-In Jang**, "Apparatus and Method for Classifying Diabetic Retinopathy", Korean Patent No. 10-2892960 (10-2023-0139500), Dec 2024.
 {: style="text-align: justify"}
 
 
