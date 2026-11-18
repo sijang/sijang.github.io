@@ -5,107 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Se-In Jang, Ph.D.</title>
 <meta name="description" content="Se-In Jang — Staff Scientist, Sidra Medicine. Deep learning for medical imaging and genomics, generative AI, PET image denoising.">
-<style>
-  :root {
-    --bg: #ffffff;
-    --fg: #1f2328;
-    --muted: #5d6670;
-    --line: #e4e7eb;
-    --accent: #1d5fa8;
-    --chip: #f2f5f8;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #14171b;
-      --fg: #e6e8eb;
-      --muted: #9aa3ad;
-      --line: #2a3038;
-      --accent: #79b0ef;
-      --chip: #1d2228;
-    }
-  }
-  * { box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
-  body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--fg);
-    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  nav {
-    position: sticky; top: 0; z-index: 10;
-    background: var(--bg);
-    border-bottom: 1px solid var(--line);
-  }
-  nav .inner {
-    max-width: 860px; margin: 0 auto; padding: 10px 16px;
-    display: flex; gap: 18px; flex-wrap: wrap; align-items: baseline;
-  }
-  nav .name { font-weight: 600; color: var(--fg); margin-right: auto; }
-  nav a.link { color: var(--muted); font-size: 14px; }
-  main { max-width: 860px; margin: 0 auto; padding: 0 16px 64px; }
-  header.hero {
-    display: flex; gap: 28px; align-items: center;
-    padding: 40px 0 28px; border-bottom: 1px solid var(--line);
-  }
-  header.hero img {
-    width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;
-    border: 1px solid var(--line);
-  }
-  h1 { font-size: 30px; margin: 0 0 4px; line-height: 1.2; }
-  .role { margin: 0; color: var(--muted); }
-  .links { margin-top: 12px; display: flex; gap: 14px; flex-wrap: wrap; font-size: 15px; }
-  section { padding: 28px 0 4px; }
-  h2 {
-    font-size: 13px; letter-spacing: .08em; text-transform: uppercase;
-    color: var(--muted); margin: 0 0 14px; font-weight: 600;
-  }
-  h3 { font-size: 16px; margin: 22px 0 8px; }
-  p { margin: 0 0 12px; }
-  .chips { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin: 0; list-style: none; }
-  .chips li { background: var(--chip); border: 1px solid var(--line); border-radius: 999px; padding: 3px 12px; font-size: 14px; }
-  .timeline { list-style: none; padding: 0; margin: 0; }
-  .timeline li {
-    display: grid; grid-template-columns: 110px 1fr; gap: 16px;
-    padding: 8px 0; border-bottom: 1px dashed var(--line);
-  }
-  .timeline li:last-child { border-bottom: none; }
-  .when { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; padding-top: 1px; }
-  .what strong { display: block; }
-  .what span { color: var(--muted); font-size: 14px; }
-  ol.pubs { padding-left: 22px; margin: 0; }
-  ol.pubs li { margin-bottom: 10px; }
-  .venue { font-style: italic; }
-  .me { font-weight: 600; }
-  .tag { font-size: 12px; border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; margin-left: 4px; white-space: nowrap; }
-  ul.plain { margin: 0; padding-left: 20px; }
-  ul.plain li { margin-bottom: 6px; }
-  footer { max-width: 860px; margin: 0 auto; padding: 20px 16px 40px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); }
-  @media (max-width: 600px) {
-    header.hero { flex-direction: column; text-align: center; }
-    .links { justify-content: center; }
-    .timeline li { grid-template-columns: 1fr; gap: 0; }
-    nav .name { width: 100%; }
-  }
-</style>
+<link rel="stylesheet" href="/style.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DJRXBN4JTS"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-DJRXBN4JTS');</script>
 </head>
 <body>
 
 <nav>
   <div class="inner">
-    <span class="name">Se-In Jang</span>
+    <a class="name" href="/">Se-In Jang</a>
     <a class="link" href="#about">About</a>
     <a class="link" href="#experience">Experience</a>
-    <a class="link" href="#publications">Publications</a>
-    <a class="link" href="#service">Service</a>
+    <a class="link" href="/publications/">Publications</a>
+    <a class="link" href="/interests/">Interests</a>
+    <a class="link" href="/quotes/">Quotes</a>
   </div>
 </nav>
 
 <main>
   <header class="hero">
-    <img src="../assets/img/SI1.jpg" alt="Photo of Se-In Jang">
+    <img src="/assets/img/SI1.jpg" alt="Photo of Se-In Jang">
     <div>
       <h1>Se-In Jang, Ph.D.</h1>
       <p class="role">Staff Scientist, Department of Human Genetics<br>Sidra Medicine, Doha, Qatar</p>
@@ -153,7 +72,7 @@
 
   <section id="publications">
     <h2>Selected Publications</h2>
-    <p style="color:var(--muted);font-size:14px">Full list on <a href="https://scholar.google.com/citations?user=I7zRmqkAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> and the <a href="../publications/">publications page</a>.</p>
+    <p style="color:var(--muted);font-size:14px">Full list on <a href="https://scholar.google.com/citations?user=I7zRmqkAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> and the <a href="/publications/">publications page</a>.</p>
 
     <h3>Journals</h3>
     <ol class="pubs">
