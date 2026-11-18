@@ -8,7 +8,9 @@ profile:
   align: right
   image: SI1.jpg
   address: >
-    <p>sein.jang[AT]yale.edu</p>
+    <p>sjang[AT]sidra.org</p>
+    <p>Department of Human Genetics</p>
+    <p>Sidra Medicine, Doha, Qatar</p>
     
 
 news: false  # includes a list of news items
@@ -16,26 +18,29 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently working as an Associate Research Scientist at the Department of Radiology & Biomedical Imaging, Yale University, starting in 2025. Prior to this, I served as a Research Associate in the same department from 2024 to 2025.
-Before joining Yale, I was a Research Fellow from 2021 to 2023 at both the Gordon Center for Medical Imaging and the Center for Advanced Medical Computing and Analysis, affiliated with Massachusetts General Hospital (MGH) and Harvard Medical School. From 2019 to 2021, I held a Research Fellow position in the Department of Statistics and Applied Probability at the National University of Singapore.
-My academic background is rooted in South Korea, where I earned my Ph.D. from Yonsei University in 2019, following an M.S. degree in 2012 and a B.S. degree from Youngdong University in 2010.
+I am a Staff Scientist in the Department of Human Genetics at [Sidra Medicine](https://www.sidra.org){:target="_blank"}, Doha, Qatar (2026–present), where I work on deep learning for medical imaging and genomics, generative AI, and translational research.
+{: style="text-align: justify"}
+
+Before joining Sidra, I was at the Department of Radiology & Biomedical Imaging, Yale University, first as a Postdoctoral Associate (2024–2025) and then as an Associate Research Scientist (2025–2026), working on dynamic PET image denoising, generative AI, PET/MR imaging, and image registration. From 2021 to 2024, I was a Research Fellow at the Department of Radiology, Massachusetts General Hospital (MGH) and Harvard Medical School, where I worked on generative AI for PET, low-dose PET denoising, and cross-modality PET/MR imaging. From 2019 to 2021, I was a Research Fellow in the Department of Statistics and Applied Probability at the National University of Singapore, working on self-supervised and explainable learning for retinal image analysis. I also founded and led AIPoiesis (2020–2022), an AI startup developing explainable AI systems for eye disease classification.
+{: style="text-align: justify"}
+
+I received my Ph.D. in Electrical & Electronic Engineering (2019) and M.Sc. in Biometrics (2012) from Yonsei University, and my B.Sc. in Computer Engineering (2010) from Youngdong University, Korea.
 {: style="text-align: justify"}
 
 
-**My main research topics** are as follows: 
+**My main research topics** are as follows:
 {: style="text-align: justify"}
 - Artificial General Intelligence
-- Neural-symbolic Learning
-- Medical Imaging\
-(Denoising, Registration, Segmentation, Quality Assessment)
-- Explainable AI
-- Generative AI
-- Self-supervised Learning
-- Online Machine Learning
-- Optimization
+- Online Learning
+- Deep Learning for Medical Imaging and Genomics
+- Medical Image Analysis\
+(Denoising, Registration, Kinetic Modeling, Segmentation, Quality Assessment)
+- Generative AI (Diffusion Models, Text-guided Image Synthesis)
+- Explainable AI and Neural-symbolic Learning
 
 
 
+[CV (Nov 2026)](/assets/pdf/SeIn_Jang_CV.pdf){:target="\_blank"},
 [Selected Publication List](https://sijang.github.io/publications/),
 [Google Scholar](https://scholar.google.co.kr/citations?user=I7zRmqkAAAAJ&hl=en){:target="\_blank"}
 
@@ -51,10 +56,10 @@ I sincerely appreciate their enormous helps and supports during my journey. I co
 - [Prof. Alexandre Thiery](http://www.normalesup.org/~athiery/){:target="_blank"}, National University of Singapore.
 - [Prof. Kuang Gong](https://scholar.google.com/citations?hl=en&user=zc6kc4kAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, University of Florida.
 - [Prof. Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd){:target="_blank"}, Massachusetts General Hospital and Harvard Medical School.
-- [Prof. Georges El Fakhri](https://scholar.google.com/citations?user=QIablCYAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
-- [Prof. Jinsong Ouyang](https://scholar.google.com/citations?user=bp7V1bYAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
-- [Prof. Chao Ma](https://scholar.google.com/citations?hl=en&user=EYvXTFcAAAAJ){:target="_blank"}, Yale Universeity.
-- [Prof. Thibault Marin](https://scholar.google.com/citations?user=XFiwBSQAAAAJ&hl=en){:target="_blank"}, Yale Universeity.
+- [Prof. Georges El Fakhri](https://scholar.google.com/citations?user=QIablCYAAAAJ&hl=en){:target="_blank"}, Yale University.
+- [Prof. Jinsong Ouyang](https://scholar.google.com/citations?user=bp7V1bYAAAAJ&hl=en){:target="_blank"}, Yale University.
+- [Prof. Chao Ma](https://scholar.google.com/citations?hl=en&user=EYvXTFcAAAAJ){:target="_blank"}, Yale University.
+- [Prof. Thibault Marin](https://scholar.google.com/citations?user=XFiwBSQAAAAJ&hl=en){:target="_blank"}, Yale University.
 
 
 
